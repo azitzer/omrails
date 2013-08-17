@@ -6,6 +6,7 @@ gem 'devise'
 gem 'simple_form'
 gem 'heroku'
 gem 'paperclip', '~> 3.0'
+gem 'aws-sdk'
 
 
 group :production do
